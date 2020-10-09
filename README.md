@@ -1,5 +1,7 @@
 # redteamfit
 
+GET AFTER IT!
+
 ![RedTeamFit](./redteamfit.png)
 ![RedTeamFit](./redteamfit_sticker.png)
 
